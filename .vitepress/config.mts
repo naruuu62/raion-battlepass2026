@@ -8,7 +8,7 @@ export default defineConfig({
   vue: {
     template: {
       compilerOptions: {
-        isCustomElement: tag => tag === 'scalar-api-reference'
+        isCustomElement: tag => tag === 'redoc'
       }
     }
   },
@@ -17,7 +17,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/overview' },
-      { text: 'API Reference', link: '/api/reference' },
     ],
     
   },

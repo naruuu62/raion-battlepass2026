@@ -1,20 +1,20 @@
 # Halo para calon developer! 👋
   
-Selamat datang di **RAION Community Battlepass** 🚀  
+Selamat datang di **RAION Community Battlepass**   
 
-Sebelum kalian resmi jadi bagian dari keluarga RAION, ada satu challenge kecil yang harus kalian selesaikan. Santai aja, ga ribet kok 😄  
+Sebelum kalian resmi jadi bagian dari keluarga RAION, ada satu challenge kecil yang harus kalian selesaikan. Santai aja, ga ribet kok   
 Di sini kalian bakal ngerasain gimana rasanya bikin **aplikasi musik ala Spotify** dengan API sungguhan.
 
 Yuk, kita bahas bareng apa aja yang perlu kalian kerjain!
 
 ---
 
-## ⚔️ KETENTUAN BATTLEPASS
+## KETENTUAN BATTLEPASS
 
 Di battlepass ini, kalian diminta untuk membuat **aplikasi music streaming sederhana**.  
 Fokus utama penilaian ada di **fungsionalitas dan integrasi API**, bukan cuma tampilan.
 
-### 🔌 Aplikasi Wajib Menggunakan API Raion Battlepass
+### Aplikasi Wajib Menggunakan API Raion Battlepass
 API ini berperan sebagai **otak aplikasi**, yang menangani:
 - Autentikasi pengguna
 - Manajemen lagu & playlist
@@ -24,7 +24,7 @@ Semua data musik akan diambil dari API yang sudah disediakan.
 
 ---
 
-## 🛠️ Teknologi yang Bisa Digunakan
+## Teknologi yang Bisa Digunakan
 Gunakan **salah satu** dari teknologi berikut:
 
 - **Jetpack Compose**
@@ -35,14 +35,14 @@ Gunakan **salah satu** dari teknologi berikut:
 
 ---
 
-## 🎶 Fitur Wajib di Dalam Aplikasi
+## Fitur Wajib di Dalam Aplikasi
 
 Aplikasi yang kalian buat **minimal harus memiliki fitur berikut**.  
 Semua endpoint sudah tersedia di backend, jadi tugas kalian adalah **mengintegrasikannya ke aplikasi mobile**.
 
 ---
 
-### 🔐 Authentication
+### Authentication
 
 - **Current User Data**  
   Melihat User aktif  
@@ -62,7 +62,7 @@ Semua endpoint sudah tersedia di backend, jadi tugas kalian adalah **mengintegra
 
 ---
 
-### 🎵 Music & Streaming
+### Music & Streaming
 
 - **Get All Songs**  
   Menampilkan daftar semua lagu  
@@ -83,18 +83,18 @@ Semua endpoint sudah tersedia di backend, jadi tugas kalian adalah **mengintegra
 ---
 
 
-## 🎨 Desain Tidak Perlu Ribet
+## Desain Tidak Perlu Ribet
 UI **Ga harus yang heboh banget**.  
 Yang penting:
 - Aplikasi bisa berjalan sesuai ketentuan
 - Navigasi jelas
 - Fitur berfungsi dengan baik
 
-✨ **Bonus poin** kalau UI/UX kalian rapi dan enak dipakai.
+ **Bonus poin** kalau UI/UX kalian rapi dan enak dipakai.
 
 ---
 
-## ⭐ BONUS POIN
+## BONUS POIN
 Nilai tambahan untuk kalian yang:
 
 - Memutar lagu **di aplikasi**
@@ -103,11 +103,11 @@ Nilai tambahan untuk kalian yang:
 
 ---
 
-## 📲 TENTANG API
+## TENTANG API
 API berfungsi sebagai jembatan antara aplikasi dan server.  
 Dokumentasi lengkap bisa kalian akses di:
 
-👉 **[RAION Battlepass API Documentation]( https://raion-battlepass-2026-production.up.railway.app/docs)**  
+ **[RAION Battlepass API Documentation]( https://raion-battlepass-2026-production.up.railway.app/redoc)**  
 
 ---
 ::: details Yuk kenalan lebih lanjut dengan API
@@ -161,26 +161,26 @@ Jadi, meskipun aplikasi frontend (seperti di handphone) dan backend (seperti ser
 :::
 
 
-## 📩 PENGUMPULAN KARYA
+##  PENGUMPULAN KARYA
 
 Kirim hasil karya kalian melalui form berikut:
 
-👉 **Form Pengumpulan Battlepass**
+ **Form Pengumpulan Battlepass**
 
-### 📦 Bentuk Pengumpulan
+###  Bentuk Pengumpulan
 Link Google Drive yang berisi:
-- File **.apk** aplikasi 📱
-- Video demo aplikasi (maks. 2 menit) 🎥
-- Video penjelasan kode (maks. 5 menit) 💻
+- File **.apk** aplikasi 
+- Video demo aplikasi (maks. 2 menit) 
+- Video penjelasan kode (maks. 5 menit) 
 - Link repository GitHub 📄
 
-> ⚠️ **Note:**  
+>  **Note:**  
 > Jangan melakukan update repository atau folder Drive setelah deadline ya!  
 > nanti **didiskualifikasi** wlee😜
 
 ---
 
-## 📞 CONTACT PERSON
+## CONTACT PERSON
 
 Kalau ada kendala atau pertanyaan, bolee banget hubungi kita yahhh:
 

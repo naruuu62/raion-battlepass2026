@@ -3,7 +3,7 @@
 Halaman ini adalah **panduan teknis** untuk menggunakan **RAION Battlepass API**
 di aplikasi mobile yang kalian buat.
 
-📌 **Catatan**
+ **Catatan**
 
 * Penjelasan apa itu API sudah ada di halaman utama
 * Di sini fokus ke **cara pakai API**
@@ -11,7 +11,7 @@ di aplikasi mobile yang kalian buat.
 
 ---
 
-## 🔗 Base URL
+##  Base URL
 
 Gunakan base URL berikut untuk semua request API:
 
@@ -28,13 +28,13 @@ GET https://raion-battlepass-2026-production.up.railway.app
 
 ---
 
-## 🔐 Authentication Flow (WAJIB URUT)
+##  Authentication Flow (WAJIB URUT)
 
 Semua fitur di aplikasi **HARUS** melewati flow berikut.
 
 ---
 
-### 1️⃣ Register User
+### 1️ Register User
 
 Digunakan saat user pertama kali membuat akun.
 
@@ -56,7 +56,7 @@ POST /auth/signup
 
 ---
 
-### 2️⃣ Login User
+### 2️ Login User
 
 Login akan menghasilkan **access token**.
 
@@ -90,12 +90,12 @@ GET /auth/
 }
 ```
 
-📌 **Simpan token ini**       
+ **Simpan token ini**       
 Token akan digunakan untuk semua request selanjutnya.
 
 ---
 
-### 3️⃣ Menggunakan Token
+### 3️ Menggunakan Token
 
 Tambahkan header berikut di setiap request:
 
@@ -105,7 +105,7 @@ Authorization: x-auth-token TOKEN_KAMU
 
 ---
 
-## 🎧 Get User Songs
+##  Get User Songs
 
 Menampilkan lagu yang kita upload di aplikasi.
 
@@ -187,7 +187,7 @@ DELETE /songs/delete/{song_id}
 ---
 
 
-## ⚠️ Error Handling (WAJIB ADA)
+##  Error Handling (WAJIB ADA)
 
 Contoh response error:
 
@@ -204,7 +204,7 @@ Yang **harus dilakukan aplikasi**:
 
 ---
 
-## 🧼 Struktur Folder (Disarankan)
+##  Struktur Folder (Disarankan)
 
 ---
 
@@ -243,7 +243,7 @@ src/
 
 ---
 
-## 🚀 Penutup
+##  Penutup
 
 Fokus utama battlepass ini adalah:
 

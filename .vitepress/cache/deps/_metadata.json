@@ -1,0 +1,40 @@
+{
+  "hash": "6cc9604b",
+  "configHash": "002c3482",
+  "lockfileHash": "02d66c90",
+  "browserHash": "0e720a0e",
+  "optimized": {
+    "vue": {
+      "src": "../../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "dc92ecd3",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "62584a4e",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "41e8c46a",
+      "needsInterop": false
+    },
+    "redoc": {
+      "src": "../../../../../node_modules/redoc/bundles/redoc.browser.lib.js",
+      "file": "redoc.js",
+      "fileHash": "ad925412",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-TMFRZ376": {
+      "file": "chunk-TMFRZ376.js"
+    },
+    "chunk-LK32TJAX": {
+      "file": "chunk-LK32TJAX.js"
+    }
+  }
+}

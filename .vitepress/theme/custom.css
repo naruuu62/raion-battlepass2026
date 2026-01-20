@@ -1,0 +1,41 @@
+/* ===============================
+   FULL WIDTH VITEPRESS PAGE
+   =============================== */
+
+.api-full .VPContent {
+  padding: 0 !important;
+}
+
+.api-full .VPDoc {
+  padding: 0 !important;
+}
+
+.api-full .vp-doc {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
+
+/* ===============================
+   REDOC FULL SCREEN
+   =============================== */
+
+.api-full .redoc-wrap {
+  width: 100vw !important;
+  max-width: 100% !important;
+}
+
+/* API content (tengah) */
+.api-full .redoc-wrap .api-content {
+  max-width: none !important;
+  padding-right: 48px;
+}
+
+/* Sidebar kiri */
+.api-full .redoc-wrap .menu-content {
+  width: 300px;
+}
+
+/* Request / Response panel */
+.api-full .redoc-wrap .operation {
+  max-width: none !important;
+}
